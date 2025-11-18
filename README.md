@@ -80,11 +80,17 @@ Small, sometimes slightly negative coefficients — meaning:
 ## 📈 Visualizations Included
 
 ✔ Correlation matrix
+
 ✔ Heatmaps
+
 ✔ Model comparison bar charts
+
 ✔ R² and MSE comparisons
+
 ✔ Overfitting gap comparison
+
 ✔ Feature importance from Random Forest
+
 ✔ Polynomial vs linear model effects
 
 ## 🧾 Conclusion
